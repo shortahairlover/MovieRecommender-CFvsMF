@@ -1,0 +1,7 @@
+# MovieLens dataset (downloaded automatically by the notebook)
+data/
+
+# Jupyter and Python cache
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
